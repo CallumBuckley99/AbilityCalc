@@ -1,0 +1,13 @@
+C:\Users\Client 6.2021 SSD\source\repos\AbilityScore\bin\Debug\netcoreapp3.1\AbilityScore.exe
+C:\Users\Client 6.2021 SSD\source\repos\AbilityScore\bin\Debug\netcoreapp3.1\AbilityScore.deps.json
+C:\Users\Client 6.2021 SSD\source\repos\AbilityScore\bin\Debug\netcoreapp3.1\AbilityScore.runtimeconfig.json
+C:\Users\Client 6.2021 SSD\source\repos\AbilityScore\bin\Debug\netcoreapp3.1\AbilityScore.runtimeconfig.dev.json
+C:\Users\Client 6.2021 SSD\source\repos\AbilityScore\bin\Debug\netcoreapp3.1\AbilityScore.dll
+C:\Users\Client 6.2021 SSD\source\repos\AbilityScore\bin\Debug\netcoreapp3.1\AbilityScore.pdb
+C:\Users\Client 6.2021 SSD\source\repos\AbilityScore\obj\Debug\netcoreapp3.1\AbilityScore.csproj.AssemblyReference.cache
+C:\Users\Client 6.2021 SSD\source\repos\AbilityScore\obj\Debug\netcoreapp3.1\AbilityScore.AssemblyInfoInputs.cache
+C:\Users\Client 6.2021 SSD\source\repos\AbilityScore\obj\Debug\netcoreapp3.1\AbilityScore.AssemblyInfo.cs
+C:\Users\Client 6.2021 SSD\source\repos\AbilityScore\obj\Debug\netcoreapp3.1\AbilityScore.csproj.CoreCompileInputs.cache
+C:\Users\Client 6.2021 SSD\source\repos\AbilityScore\obj\Debug\netcoreapp3.1\AbilityScore.dll
+C:\Users\Client 6.2021 SSD\source\repos\AbilityScore\obj\Debug\netcoreapp3.1\AbilityScore.pdb
+C:\Users\Client 6.2021 SSD\source\repos\AbilityScore\obj\Debug\netcoreapp3.1\AbilityScore.genruntimeconfig.cache
